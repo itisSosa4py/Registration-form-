@@ -1,0 +1,42 @@
+.Sita{
+    font-size: 28px;
+    font-family: Roboto , sans-serif;
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+.madara{
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    height: 700px;
+  
+    
+}
+.ram{
+display: flex;
+flex-direction: row;
+font-family: Roboto, sans-serif;
+row-gap: 0px;
+/* justify-content: center ;  */
+padding-top: 50px;
+}
+.shyam{
+font-size: 24px;
+
+}
+.pratima{
+font-size: 24px;
+}
+.otf{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+.sasuke{
+    font-family: Roboto,sans-serif;
+    padding-top: 40px;
+    margin-left: 200px;
+}
+.sasuke input{
+   border: 2px solid black;
+   border-radius: 8px;
+}
